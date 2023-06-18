@@ -1,6 +1,6 @@
 {
   "name": "shadcn-primitives",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -11,7 +11,11 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozgurrgul/shadcn-primitives.git"
+  },
+  "author": "Ozgur GUL (http://github.com/ozgurrgul)",
   "license": "MIT",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.0.21",
